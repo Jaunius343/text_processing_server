@@ -1,0 +1,3 @@
+line1 from text
+line2 from text
+line3 from text

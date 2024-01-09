@@ -1,0 +1,7 @@
+%%END
+line1 from text2
+%%END
+line2 from text2
+%%END
+line3 from text2
+line4 from text2
